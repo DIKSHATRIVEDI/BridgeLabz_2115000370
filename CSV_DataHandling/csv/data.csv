@@ -1,0 +1,8 @@
+Email,Phone Number
+valid.email@example.com,9876543210
+invalid-email,12345
+user@domain.com,987654321A
+test@domain.org,1234567890
+sample@website.net,0123456789
+wrong@format,98765
+hello.world@email.com,abcdefghij
